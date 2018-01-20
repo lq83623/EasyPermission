@@ -1,2 +1,2 @@
 # EasyPermission
-This is Permission module for  android
+This is a Permission module for  android
